@@ -5,4 +5,6 @@ This Repo is for better understanding of classic computer vision algorithms, and
 Algorithms :
 - Segmentation
     - Interactive Segmentation
-    
+- Object Recognition
+- Object Tracking
+- Object Measurements
